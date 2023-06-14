@@ -8,4 +8,4 @@
 - Putting headings in **sequential** order
 - Adding a concise and descriptive **title**
 
-**[Preview]** https://github.com/jcha25/Code-Refractor-Challenge-1/assets/135068189/01e38ab6-3344-4223-8501-4a548a16feb2
+**[Preview]**(https://github.com/jcha25/Code-Refractor-Challenge-1/assets/135068189/01e38ab6-3344-4223-8501-4a548a16feb2)
