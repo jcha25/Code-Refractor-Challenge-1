@@ -14,4 +14,4 @@
 ## Leveraged code
 
 -[Semantic help](https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/)
--[Linking sections to text](https://www.computerhope.com/issues/ch000049.htm#opening)
+-[Linking sections to headings](https://www.computerhope.com/issues/ch000049.htm#opening)
