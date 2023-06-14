@@ -1,1 +1,1 @@
-# Code-Refractor-Challenge-1
+# Code-Refractor-Challenge
