@@ -1,4 +1,4 @@
-# Code Refractor Challenge
+# Code Refactor Challenge
 
 **Refactoring** code is to improve code without changing what it does. In this instance our challenge has us do this by
 
